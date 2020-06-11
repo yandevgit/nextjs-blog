@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
       <Alert type="success">
-        <p>Bonjour, je suis Yannick Nkendem Ingénieur en developpement logiciel <br />
+        <p>Bonjour, je suis Yannick Nkendem Ingénieur de conception en developpement logiciel <br />
         Visitez mon compte <a href="https://twitter.com" title="my twitter" target="_blank">Twitter</a></p>
       </Alert>
         <p>
